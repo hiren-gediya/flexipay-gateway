@@ -1,0 +1,43 @@
+/* WooCommerce Settings Styles */
+
+/* Hide the raw URL input field */
+.flexipay-image-url {
+    display: none !important;
+}
+
+.flexipay-media-wrapper {
+    margin: 10px 0;
+}
+
+.flexipay-image-preview {
+    margin-bottom: 12px;
+    background: #f8f9fa;
+    border: 1px solid #ccd0d4;
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+}
+
+.flexipay-image-preview img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.flexipay-media-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.flexipay-media-actions .button-link-delete {
+    color: #d63638;
+}
+
+.flexipay-media-actions .button-link-delete:hover {
+    color: #bc0b0d;
+}
