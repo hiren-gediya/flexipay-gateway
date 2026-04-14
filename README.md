@@ -3,6 +3,13 @@
 FlexiPay Gateway for WooCommerce is a powerful plugin that allows you to create and manage upto 10 custom offline payment methods with ease. Add payment instructions, QR codes, and handle manual payments efficiently.
 
 ---
+## 🚀 Official WordPress.org Plugin
+
+FlexiPay Gateway for WooCommerce is officially available on WordPress.org:
+
+🔗 https://wordpress.org/plugins/flexipay-gateway/
+
+Install directly from your WordPress dashboard.
 
 ## 🚀 Features
 
